@@ -1,0 +1,14 @@
+
+
+Staff Resource(API)
+
+
+Get    (getAllStaff) : https://www.medunna.com/api/staff
+
+Post   (createStaff) : https://www.medunna.com/api/staff
+
+Put    (updateStaff) : https://www.medunna.com/api/staff
+
+Get    (getStaff)    : https://www.medunna.com/api/staff/{id}
+
+Delete (deleteStaff) : https://www.medunna.com/api/staff/{id}
